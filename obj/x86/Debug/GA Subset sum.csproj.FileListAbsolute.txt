@@ -1,0 +1,9 @@
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\bin\Debug\GA Subset sum.exe
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\bin\Debug\GA Subset sum.pdb
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\GA_Subset_sum.MainForm.resources
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\GA_Subset_sum.Properties.Resources.resources
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\GA Subset sum.exe
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Debug\GA Subset sum.pdb

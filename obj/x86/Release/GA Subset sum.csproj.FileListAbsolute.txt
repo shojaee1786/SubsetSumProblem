@@ -1,0 +1,13 @@
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA_Subset_sum.MainForm.resources
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA_Subset_sum.Properties.Resources.resources
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\bin\Release\GA Subset sum.exe
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\bin\Release\GA Subset sum.pdb
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA Subset sum.exe
+C:\Users\reza\Desktop\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA Subset sum.pdb
+C:\Users\reza\Desktop\BC-HW1-810190134\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA Subset sum.exe
+C:\Users\reza\Desktop\BC-HW1-810190134\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA Subset sum.pdb
+D:\University of Tehran\Courses\Bio\Homeworks\1\BC-HW1-810190134\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA Subset sum.exe
+D:\University of Tehran\Courses\Bio\Homeworks\1\BC-HW1-810190134\Subset sum\GA Subset sum\GA Subset sum\obj\x86\Release\GA Subset sum.pdb
